@@ -8,6 +8,7 @@ export default function Landing() {
       <h2>hola pianola carita</h2>
       <h2>como esta usted?</h2>
       <h2>probadno pull res</h2>
+      <h2>probadno res</h2>
     </div>
   );
 }
