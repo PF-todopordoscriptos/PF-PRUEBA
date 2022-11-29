@@ -5,6 +5,7 @@ export default function Landing() {
     <div>
       <h1>holaaaaa</h1>
       <h2>como esta usted?</h2>
+      <h2>hola pianola carita</h2>
     </div>
   );
 }
